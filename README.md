@@ -1,2 +1,2 @@
 # DataAnalysisCodes
-These are my project I developed during my training at Openclassrooms.
+These are my projects that I had developed during training at Openclassrooms. Click on 'View Code' please.
